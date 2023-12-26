@@ -1,0 +1,10 @@
+glob2
+tqdm
+scikit-learn
+pathlib
+numpy
+zipfile36
+elementpath
+opencv-python
+pillow
+torch
